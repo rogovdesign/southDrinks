@@ -1,14 +1,14 @@
 <template>
   <main class="main">
     <h1 class="main__title">
-       Главная страница
+       Страница продукта
     </h1>
   </main>
 </template>
 
 <script>
 export default {
-  name: "Home"
+  name: "product"
 };
 </script>
 
